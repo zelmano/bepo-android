@@ -34,6 +34,15 @@ map key 100 ALT_RIGHT
 # Rangee des chiffres
 # ----------------------------------------------------------------
 
+key GRAVE {
+    label:              '#'
+    base:               '\u0020'
+    shift, capslock:    '#'
+    shift+capslock:     '\u0020'
+    ralt:               '\u0020'
+    shift+ralt:         '\u0020'
+}
+
 key 1 {
     label:              '1'
     base:               '1'
