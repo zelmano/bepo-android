@@ -446,7 +446,7 @@ key N {
     base:               '\u0027'
     shift, capslock:    '?'
     shift+capslock:     '\u0027'
-    ralt:               '\u0020'
+    ralt:               '\u0022'
     shift+ralt:         '\u0020'
 }
 
@@ -455,7 +455,7 @@ key M {
     base:               'q'
     shift, capslock:    'Q'
     shift+capslock:     'q'
-    ralt:               '\u0022'
+    ralt:               '\u0020'
     shift+ralt:         '\u0020'
 }
 
